@@ -1,6 +1,6 @@
 # Image-gallery
--Rakib ul banna
--rakibulbanna@gmail.com
+- Rakib ul banna
+- rakibulbanna@gmail.com
 
 To run Image gallery 1st you have to install the dependencies by executing
 ```
